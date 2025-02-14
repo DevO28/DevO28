@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevO28
-- 👀 I’m interested in Data Science field
-- 🌱 I’m currently learning Web
-- 💞️ I’m looking to collaborate on Hackathons
+- 👀 I’m interested in Data Science field.
+- 🌱 I’m currently learning DSA.
+- 💞️ I’m looking to collaborate on Hackathons.
 - 📫 How to reach me ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
